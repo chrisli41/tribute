@@ -1,0 +1,81 @@
+html {
+    height:100%;
+}
+
+body {
+    font-family:'Roboto', serif;
+    font-size:16px;
+}
+
+#header {
+    background-image:url(http://www.theimaginativeconservative.org/wp-content/uploads/2016/01/statua-aristotele.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: 50% 50%;
+    min-height:100%;
+    padding: 200px 0 75px 0;
+}
+
+#header h3 {
+    font-size:2.5em;
+    color:#fff;
+    font-weight:300;
+}
+
+#quote {
+    background-color:#359675;
+    display:inline;
+    line-height:56px;
+}
+
+#name {
+    font-style:italic;
+
+}
+
+#intro {
+    padding:30px;
+    margin-bottom:30px;
+    min-height:100%;
+}
+
+#intro h1 {
+    color:#359675;
+}
+
+#intro h1 small {
+    font-size:0.4em;
+    color:#514568;
+    text-transform:uppercase;
+}
+
+a {
+    font-size: 14px;
+    color: #ABB7B7 !important;
+}
+
+a:hover {
+    color: #22313F !important;
+    text-decoration: none !important;
+
+}
+
+.subtitle {
+    color:#359675;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+p {
+    text-indent: 2.0em;
+}
+
+#info {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+#conclusion {
+    background-color: #359675;
+    height: 30px;
+}
